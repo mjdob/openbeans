@@ -1,3 +1,6 @@
-# OpenBeans 
+<h3 align="center">OpenBeans</h3>
 
-The Mobile Ready CSS framework designed to make web design simple!
+<p align="center">
+  The Mobile Ready CSS framework designed to make web design simple!
+</p>
+
