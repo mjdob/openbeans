@@ -1,3 +1,4 @@
+<img align="center" src="/assets/logo.png">
 <h3 align="center">OpenBeans</h3>
 
 <p align="center">
