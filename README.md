@@ -16,7 +16,7 @@
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/mjdob/openbeansblob/main//.github/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/mjdob/openbeans/issues/new).
+Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/mjdob/openbeans/blob/main//.github/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/mjdob/openbeans/issues/new).
 
 
 ## Contributing
