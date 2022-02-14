@@ -1,0 +1,41 @@
+/*!
+ * OpenBeans (https://openbeans.xyz)
+ * Copyright 2022 OpenBeans
+ * Copyright 2022 Matt Davison
+ * Copyright 2022 MJDWS
+ * Licensed under MIT (https://github.com/mjdob/openbeans/blob/main/LICENSE)
+ */
+
+@media (prefers-reduced-motion: no-preference) {
+	:root {
+		scroll-behavior: smooth;
+	}
+}
+	body {
+		margin: 0;
+		font-family: var(--ob-body-font-family);
+		font-size: var(--ob-body-font-size);
+		font-weight: var(--ob-body-font-weight);
+		line-height: var(--ob-body-line-height);
+		color: var(--ob-body-color);
+		text-align: var(--ob-body-text-align);
+		background-color: var(--ob-body-bg);
+		-webkit-text-size-adjust: 100%;
+		-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  	}
+  	hr {
+		margin: 1rem 0;
+		color: inherit;
+		background-color: currentColor;
+		border: 0;
+		opacity: 0.25;
+  	}
+	hr:not([size]) {
+		height: 1px;
+  	}
+	h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+		margin-top: 0;
+		margin-bottom: 0.5rem;
+		font-weight: 500;
+		line-height: 1.2;
+  	}
