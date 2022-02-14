@@ -6,7 +6,7 @@
  * Licensed under MIT (https://github.com/mjdob/openbeans/blob/main/LICENSE)
  */
 
- :root {
+:root {
 	--ob-blue: #007BFF;
 	--ob-indigo: #6610f2;
 	--ob-purple: #6f42c1;
@@ -58,4 +58,9 @@
 	--ob-body-font-size: 1rem;
 	--ob-body-font-weight: 400;
 	--ob-body-line-height: 1.5;
-  }
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
