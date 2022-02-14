@@ -5,6 +5,21 @@
 <h1 align="center">OpenBeans<br></h1>
 <p align="center">The Mobile Ready CSS framework designed to make web design simple!</p>
 
+## Table of contents
+
+- [Bugs and feature requests](#bugs-and-feature-requests)
+- [Documentation](#documentation)
+- [Contributing](#contributing)
+- [Community](#community)
+- [Creators](#creators)
+- [Copyright and license](#copyright-and-license)
+
+
+## Bugs and feature requests
+
+Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/mjdob/openbeans/.github/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/mjdob/openbeans/issues/new).
+
+
 ## Contributing
 
 Please read through our [contributing guidelines](https://github.com/mjdob/openbeans/.github/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
