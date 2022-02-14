@@ -8,7 +8,6 @@
 ## Table of contents
 
 - [Bugs and feature requests](#bugs-and-feature-requests)
-- [Documentation](#documentation)
 - [Contributing](#contributing)
 - [Community](#community)
 - [Creators](#creators)
