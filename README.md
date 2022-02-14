@@ -27,3 +27,8 @@ Get updates on OpenBeans' development and chat with the project maintainers and 
 **Matt Davison**
 
 - <https://github.com/mattjdavison>
+
+
+## Copyright and license
+
+Code and documentation copyright 2022 the [OpenBeans Authors](https://github.com/mjdob/openbeans/graphs/contributors) and [MJDWS](https://github.com/mjdws) Code released under the [MIT License](https://github.com/mjdob/openbeans/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
