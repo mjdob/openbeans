@@ -8,14 +8,14 @@
 
 :root {
 	--ob-blue: #007BFF;
-	--ob-indigo: #6610f2;
-	--ob-purple: #6f42c1;
-	--ob-pink: #d63384;
+	--ob-indigo: #5900E8;
+	--ob-purple: #8800D1;
+	--ob-pink: #ED217C;
 	--ob-red: #FF1E19;
 	--ob-orange: #FF8B0F;
 	--ob-yellow: #FFBF00;
 	--ob-green: #08A045;
-	--ob-teal: #20c997;
+	--ob-teal: #15998E;
 	--ob-cyan: #29A0B1;
 	--ob-white: #FFF;
 	--ob-gray: #6c757d;
@@ -58,6 +58,7 @@
 	--ob-body-font-size: 1rem;
 	--ob-body-font-weight: 400;
 	--ob-body-line-height: 1.5;
+	scroll-behavior: smooth;
 }
 *,
 *::before,
