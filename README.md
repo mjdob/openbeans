@@ -17,12 +17,12 @@
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/mjdob/openbeans/.github/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/mjdob/openbeans/issues/new).
+Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/mjdob/openbeansblob/main//.github/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/mjdob/openbeans/issues/new).
 
 
 ## Contributing
 
-Please read through our [contributing guidelines](https://github.com/mjdob/openbeans/.github/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+Please read through our [contributing guidelines](https://github.com/mjdob/openbeans/blob/main/.github/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
 
 Moreover, if your pull request contains JavaScript patches or features, you must include [relevant unit tests](https://github.com/mjdob/openbeans/tree/main/js/tests). All HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Mark Otto](https://github.com/mdo).
 
