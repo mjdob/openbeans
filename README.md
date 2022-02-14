@@ -13,3 +13,17 @@ Moreover, if your pull request contains JavaScript patches or features, you must
 
 Editor preferences are available in the [editor config](https://github.com/mjdob/openbeans/blob/main/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
 
+
+## Community
+
+Get updates on OpenBeans' development and chat with the project maintainers and community members.
+
+- Follow [@getopenbeans on Twitter](https://twitter.com/getopenbeans).
+- Chat with fellow OpenBeans users in GitHub Discussions, these can be found [here](https://github.com/mjdob/openbeans/discussions).
+
+
+## Creators
+
+**Matt Davison**
+
+- <https://github.com/mattjdavison>
