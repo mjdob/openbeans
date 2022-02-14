@@ -1,0 +1,61 @@
+/*!
+ * OpenBeans (https://openbeans.xyz)
+ * Copyright 2022 OpenBeans
+ * Copyright 2022 Matt Davison
+ * Copyright 2022 MJDWS
+ * Licensed under MIT (https://github.com/mjdob/openbeans/blob/main/LICENSE)
+ */
+
+ :root {
+	--ob-blue: #007BFF;
+	--ob-indigo: #6610f2;
+	--ob-purple: #6f42c1;
+	--ob-pink: #d63384;
+	--ob-red: #FF1E19;
+	--ob-orange: #FF8B0F;
+	--ob-yellow: #FFBF00;
+	--ob-green: #08A045;
+	--ob-teal: #20c997;
+	--ob-cyan: #29A0B1;
+	--ob-white: #FFF;
+	--ob-gray: #6c757d;
+	--ob-gray-dark: #343a40;
+	--ob-gray-100: #EDF2EF;
+	--ob-gray-200: #E9ECEF;
+	--ob-gray-300: #DEE2E6;
+	--ob-gray-400: #CED4DA;
+	--ob-gray-500: #ADB5BD;
+	--ob-gray-600: #6C757D;
+	--ob-gray-700: #495057;
+	--ob-gray-800: #343A40;
+	--ob-gray-900: #23272A;
+	--ob-primary: #007BFF;
+	--ob-secondary: #6C757D;
+	--ob-success: #08A045;
+	--ob-info: #29A0B1;
+	--ob-caution: #FFBF00;
+	--ob-danger: #FF1E19;
+	--ob-light: #EDF2EF;
+	--ob-dark: #1A1A1A;
+	--ob-body-color: #23272A;
+	--ob-body-bg: #fff;
+	--ob-primary-rgb: 0, 123, 255;
+	--ob-secondary-rgb: 108, 117, 125;
+	--ob-success-rgb: 8, 160, 69;
+	--ob-info-rgb: 41, 160, 177;
+	--ob-caution-rgb: 255, 191, 0;
+	--ob-danger-rgb: 255, 30, 25;
+	--ob-light-rgb: 237, 242, 239;
+	--ob-dark-rgb: 26, 26, 26;
+	--ob-white-rgb: 255, 255, 255;
+	--ob-black-rgb: 0, 0, 0;
+	--ob-body-color-rgb: 35, 39, 42;
+	--ob-body-bg-rgb: 255, 255, 255;
+	--ob-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+	--ob-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+	--ob-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+	--ob-body-font-family: var(--ob-font-sans-serif);
+	--ob-body-font-size: 1rem;
+	--ob-body-font-weight: 400;
+	--ob-body-line-height: 1.5;
+  }
