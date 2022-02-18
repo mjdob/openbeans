@@ -1,6 +1,14 @@
   name: EditorConfig-Action
   uses: zbeekman/EditorConfig-Action@v1.1.1 
-  on: push
+  on:
+  push:
+    branches:
+    - main
+    - release/*
+  jobs:
+    my_job:
+      name: deploy to staging
+      runs-on: ubuntu-latest
 
 workflow "EditorConfig Audit" {
   resolves = ["EditorConfig-Action"]
