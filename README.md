@@ -4,6 +4,9 @@
 
 <h1 align="center">OpenBeans<br></h1>
 <p align="center">The Mobile Ready CSS framework designed to make web design simple!</p>
+<p align="">
+	![Twitter Follow](https://img.shields.io/twitter/follow/getopenbeans?color=%231DA1F2&logo=twitter&logoColor=%231DA1F2&style=plastic)
+</p>
 
 ## Table of contents
 
