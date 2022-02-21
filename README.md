@@ -8,6 +8,7 @@
 	<img align="center" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mjdob/openbeans?color=yellow&logo=github&style=plastic">
 	<img align="center" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/getopenbeans?color=%231DA1F2&logo=twitter&logoColor=%231DA1F2&style=plastic">
 </p>
+
 ## Table of contents
 
 - [Bugs and feature requests](#bugs-and-feature-requests)
