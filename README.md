@@ -45,7 +45,7 @@ Get updates on OpenBeans' development and chat with the project maintainers and 
 
 **Matt Davison**
 
-- <https://github.com/mattjdavison>
+- <https://github.com/immattdavison>
 
 
 ## Copyright and license
