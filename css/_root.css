@@ -5,8 +5,12 @@
  * Copyright 2022 MJDWS
  * Licensed under MIT (https://github.com/mjdob/openbeans/blob/main/LICENSE)
  */
-
-:root {
+ @media (prefers-reduced-motion: no-preference) {
+	:root{
+		scroll-behavior: smooth;
+	}
+}
+:root{
 	--ob-blue: #007BFF;
 	--ob-indigo: #5900E8;
 	--ob-purple: #8800D1;
