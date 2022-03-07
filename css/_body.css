@@ -5,11 +5,6 @@
  * Copyright 2022 MJDWS
  * Licensed under MIT (https://github.com/mjdob/openbeans/blob/main/LICENSE)
  */
-
- @media (prefers-reduced-motion: no-preference) {
-
- }
-
 body {
 	/*Global OpenBeans Standard*/
 	margin: 0;
