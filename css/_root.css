@@ -34,7 +34,7 @@
 	--ob-success: #08A045;
 	--ob-info: #29A0B1;
 	--ob-caution: #FFBF00;
-	--ob-warning: #ff8410;
+	--ob-warning: #FF8410;
 	--ob-danger: #FF1E19;
 	--ob-light: #EDF2EF;
 	--ob-dark: #1A1A1A;
@@ -45,6 +45,7 @@
 	--ob-success-rgb: 8, 160, 69;
 	--ob-info-rgb: 41, 160, 177;
 	--ob-caution-rgb: 255, 191, 0;
+	--ob-warning-rgb: ;
 	--ob-danger-rgb: 255, 30, 25;
 	--ob-light-rgb: 237, 242, 239;
 	--ob-dark-rgb: 26, 26, 26;
