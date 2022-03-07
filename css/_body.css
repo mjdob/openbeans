@@ -33,38 +33,14 @@
 	hr:not([size]) {
 		height: 1px;
 	}
-	/*XS*/
-	@media (max-width: 576px){
-		h1{
-			font-size: 1em;
-		}
-	}
-	/*SM*/
-	@media (min-width: 576px){
-		h1{
-			font-size: 1.5em;
-		}
-	}
-	/*MD*/
-	@media (min-width: 768px){
-		h1{
-			font-size: 2em;
-		}
-	}
-	/*LG*/
-	@media (min-width: 992px){
 
-	}
+	h1, .h1 {
+		font-size: calc(1.350em + 1.5vw);
+	  }
 	/*XL*/
 	@media (min-width: 1200px){
-		h1{
+		h1, .h1{
 			font-size: 2.5em;
-		}
-	}
-	/*XXL*/
-	@media (min-width: 1400px){
-		h1{
-			font-size: 3em;
 		}
 	}
  }
