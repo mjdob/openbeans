@@ -58,6 +58,7 @@
 	--ob-body-font-size: 1rem;
 	--ob-body-font-weight: 400;
 	--ob-body-line-height: 1.5;
+	--ob-body-text-align: center
 	scroll-behavior: smooth;
 }
 *,
