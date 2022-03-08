@@ -1,0 +1,21 @@
+ol, ul {
+	padding-left: 2em;
+  }
+
+ol, ul, dl {
+	margin-top: 0;
+	margin-bottom: 1em;
+}
+
+ol ol, ul ul, ol ul, ul ol {
+	margin-bottom: 0;
+}
+
+dt {
+	font-weight: 700;
+}
+
+dd {
+	margin-bottom: 0.5em;
+	margin-left: 0;
+}
