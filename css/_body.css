@@ -55,6 +55,9 @@ h5, .h5 {
 h6, .h6 {
 	font-size: 1em;
 }
+p, .p{
+	margin: 1em auto;
+}
 
 /*XL*/
 @media (min-width: 1200px){
@@ -81,9 +84,5 @@ h6, .h6 {
 
 	h6, .h6{
 		font-size: 1em;
-	}
-
-	p, .p{
-		margin: 1em auto;
 	}
 }
