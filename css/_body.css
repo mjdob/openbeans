@@ -86,3 +86,16 @@ p, .p{
 		font-size: 1em;
 	}
 }
+
+ol, ul {
+  padding-left: 2em;
+}
+
+ol, ul, dl {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+ol ol, ul ul, ol ul, ul ol {
+  margin-bottom: 0;
+}
